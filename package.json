@@ -25,7 +25,7 @@
   },
   "scripts": {
     "prestart": "",
-    "start": "react-scripts start",
+    "start": "node server",
     "start:server": "node server",
     "start:frontend": "react-scripts start",
     "build": "react-scripts build",
