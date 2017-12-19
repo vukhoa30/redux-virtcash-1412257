@@ -24,10 +24,8 @@
     "universal-cookie": "^2.1.0"
   },
   "scripts": {
-    "prestart": "",
+    "prestart": "react-scripts build",
     "start": "node server",
-    "start:server": "node server",
-    "start:frontend": "react-scripts start",
     "build": "react-scripts build",
     "test": "mocha test",
     "eject": "react-scripts eject"
