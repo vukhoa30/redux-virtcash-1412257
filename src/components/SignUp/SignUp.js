@@ -1,6 +1,4 @@
 import React from 'react';
-import { LinkedComponent } from 'valuelink'; 
-import { Input } from 'valuelink/tags';
 import SignUpForm from '../SignUpForm/SignUpForm'
 
 import './SignUp.css';
